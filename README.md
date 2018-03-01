@@ -1,0 +1,1 @@
+# parova-terapie
