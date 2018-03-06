@@ -1,4 +1,4 @@
-body {
+    body {
     font-family: 'Josefin Sans', sans-serif;
     margin-left: auto;
     margin-right: auto;
@@ -44,9 +44,7 @@ img {
     text-decoration: none;
 }
 
-.logo {
-    
-}
+.logo {}
 
 .copyright {
     clear: both;
@@ -123,31 +121,27 @@ footer {
     padding-bottom: 30px;
     margin-top: 30px;
 }
-.logo img{
-    max-width:12.5rem;
+
+.logo img {
+    max-width: 12.5rem;
 }
+
 @media only screen and (max-width: 40em) {
     .o-webu {
-       float:left;
-        
-            
+        float: left;
     }
     .logo {
-        display:block;
-        text-align:center;
-        margin-left:auto;
+        display: block;
+        text-align: center;
+        margin-left: auto;
         margin-right: auto;
-        
-        
     }
-    .menu{
-        margin-left:auto;
-        margin-right:auto;
-        float:none;
+    .menu {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
     }
-    .kontakt-titulka{
-    float:left;
-        clear:both;
+    .kontakt-titulka {
+        float: left;
+        clear: both;
     }
-    
-   
